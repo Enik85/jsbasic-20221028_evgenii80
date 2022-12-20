@@ -15,5 +15,3 @@ toggleText();
 <button class="toggle-text-button">Нажмите, чтобы спрятать/показать текст</button>
 <div id="text">Текст</div>
 ```
-
-В файле `index.html` вы можете найти пример использования функции.

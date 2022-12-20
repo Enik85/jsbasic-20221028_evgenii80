@@ -10,7 +10,7 @@ let rows = [
     {
         name: 'Вася',
         age: 25,
-        salary: 1000,
+        salary: 1000, 
         city: 'Самара'
     },
     {
